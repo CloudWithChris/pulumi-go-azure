@@ -1,0 +1,3 @@
+name: first-azure-go
+runtime: go
+description: My first Azure Golang Pulumi Deployment
